@@ -1,0 +1,9 @@
+<div class="more-less-box">
+  <h3>
+  Fact Box
+  </h3>
+  <p class="more-less-area collapsed">
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
+  </p>
+  <a class="more-less-button" href="javescript:void(0);" onclick="toggleMoreLess('.more-less-area')">Show/Hide Box</a>
+</div>
